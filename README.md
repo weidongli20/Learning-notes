@@ -7,6 +7,7 @@
   - ``` > time_index = pd._to_datetime(date_str) + ser_int.astype('timedelta64[h]') - pd.Timedelta('1h') ```
 
 | Alias  |  Description |
+| ------ |:-------------:| 
 | B      |    business day frequency |
 | C      |   custom business day frequency |
 | D      |   calendar day frequency |
